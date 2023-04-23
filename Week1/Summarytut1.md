@@ -1,0 +1,6 @@
+Dichotomy of The Brain and The Mind: Mind refers to the ideas and the purposes. It is the ability of an agent to spot regularities and invariances.The brain is made up of material. It has its own chemistry and physiology.The dynamics of the brain implement the Mind.
+The brain consumes about 20% of the body's oxygen for carrying out all the chemical processes.
+Brain is divided onto specific regions like the Primary motor cortex, Primary somato-sensory cortex,Primary visual cortex,Broca's area, Wernicke's area etc. which are responsible for carrying out specific functions.
+Neurons are the hardware of the brain.They are specialised cells which carry electrical signals through them and are connected to each other through endings called Synapses. These are chemical mediums which help in transferring signals from one neuron to another. 
+When the conductance in the membrane of a neuron changes, it responds with a deflection in the voltage. This deflection is called the Action Potential. Since these are ways with which neurons communicate with each other, Action potential are often called the "Currency of information processing" in the brain.
+The Brain's true complexity lies not in the large number of neurons it has but the connections.On an average, a neuron sends out and receives about ten thousand impulses.
