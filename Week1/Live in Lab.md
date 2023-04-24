@@ -1,0 +1,4 @@
+Live in Lab is used to study neurocircuits that support decision making. It uses the wide-field imaging technique to measure activity in the dorsal cortex as the animals are making decisions.
+Softwares like DeepLabCut are used to track the movements of the animals while also tracking their neural activity.
+Animals are exposed to a sound isolated booth with minimal lighting conditions.They are then made to make decision as two spout are placed on their left as well as right side and they have to decide whether to lick left or right while their neural activity is tracked using the wide field.
+The data collected is then analysed using a cloud-based platform called NeuroCAAS. It allows neuroscientists to do cloud based computing even on a large dataset collected from wide-field imaging.

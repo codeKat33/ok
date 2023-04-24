@@ -1,0 +1,3 @@
+Some experiments were carried out on animals to study their behaviour which would give us an idea of the strtegies they use in decision making or the type of memories formed.Hence, they are used to study decision making,complex movements, learning and memory etc.
+Behavioural readouts vary from species to species.For example,reading the swimming behaviour of fishes is very different from reading the flying behaviour of flies.
+The Two Alternative Forced Choice Task is a common tool used for behaviour reading. In this animals have to make a decision between two choices, but they cannot communicate their choices verbally, so the researchers do a behavioural readout on them.

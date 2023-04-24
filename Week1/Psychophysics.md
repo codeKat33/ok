@@ -1,0 +1,5 @@
+Psychophysics is the study of relationship between stimulus and sensation. For example, Contrast sensitivity, Trichromacy.It is used for making more accurate predictions.
+According to Web-Fechner law, delta Perception = delta stimulus / stimulus, which is , with a heavier weight , one will need a larger external change to create the same internal change.
+The contrast sensitivity function is a measure of the ability to differentiate between different levels of contrast and brightness.
+Psychophysics is done using certain experiments."The Detection Task" is used to determine minimum amount of detectable light.For it to be visible to us, 1 quantum of light needs to be absorbed by 5- 14 retinal rods.
+The JND(Just Noticeable Difference) can be measured using "Method of Constant Stimuli" or the "Staircase Procedure".
