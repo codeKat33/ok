@@ -1,0 +1,8 @@
+ Studying The brain helps us understand the mind, its evolutionary and developmental origin and also to relate to the brains of other creatures.
+ Neurons are diverse. There are O(1000) types of mammalian braincells or neurons, differing in shape, axonal structure, proteins etc.
+ It is important to study the brain at cellular to understand short-term memory, intelligence, consciousness, vision etc.
+ People have discovered different ways to understand the correlation between neurons and consciousness. For example, comparing wakefulness when lying inside a magnet with eyes closed to when one is really asleep or the same quite wakefulness to anesthesia, etc.
+ Many things have to go on in our brain(beating of the heart for the brain to get sufficient oxygen supply)for us to be conscious.Every type of feeling we get is due to the proper working of neural mechanisms in the brainstem which suffuse the cortex with enough activity for the same purpose. 
+ There lie major computational challenges with neuronal activities due to the large diversity in the neuronal structure. An average mammalian brain consists of neurons in numbers ranging from 10^8 to 10^11, while types of neurons is estimated to be 10^3.
+ A single neuron is connected to 10^3 to 10^4 other neurons. This massive recurrency makes brain radically different from digital computers.
+Even after using a purely computational approach, there is still no proper understanding of 'The Brain'.
